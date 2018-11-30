@@ -1,0 +1,7 @@
+D:\TestProjects\BinaryReadTest\BinaryReadTest\bin\Debug\BinaryReadTest.exe.config
+D:\TestProjects\BinaryReadTest\BinaryReadTest\bin\Debug\BinaryReadTest.exe
+D:\TestProjects\BinaryReadTest\BinaryReadTest\bin\Debug\BinaryReadTest.pdb
+D:\TestProjects\BinaryReadTest\BinaryReadTest\obj\Debug\BinaryReadTest.csprojAssemblyReference.cache
+D:\TestProjects\BinaryReadTest\BinaryReadTest\obj\Debug\BinaryReadTest.csproj.CoreCompileInputs.cache
+D:\TestProjects\BinaryReadTest\BinaryReadTest\obj\Debug\BinaryReadTest.exe
+D:\TestProjects\BinaryReadTest\BinaryReadTest\obj\Debug\BinaryReadTest.pdb
